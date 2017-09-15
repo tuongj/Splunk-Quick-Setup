@@ -1,6 +1,8 @@
 #!/bin/bash
 # Author: Jimmy Tuong
 # E-mail: tuongj@gmail.com
+#
+# A script for quick installation of Splunk Enterprise as a distributed search
 clear
 
 # Splunk installation directory
